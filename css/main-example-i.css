@@ -1,0 +1,27 @@
+#content {
+  padding: 0 500px 0 500px;
+}
+
+p {
+  display: block;
+
+}
+#bottom-content {
+  background: #f95b34;
+  display: block;
+  width: 1886px;
+  height: 37px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  padding: 0 0;
+}
+
+#bottom-content p {
+  display: block;
+  width: 900px;
+  height: 12px;
+  padding: 0px 1125px 0px 510px;
+  position: absolute;
+  bottom: 2%;
+}
