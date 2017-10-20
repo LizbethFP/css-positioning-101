@@ -1,10 +1,11 @@
 .sixth #box_1 {
-	position: relative;
+	position: absolute;
 	top: 0;
 	left: 0;
 	width: 200px;
 	height: 200px;
 	background: #ee3e64;
+  display: block;
 }
 
 .sixth #box_2 {
@@ -14,6 +15,7 @@
 	width: 200px;
 	height: 200px;
 	background: #44accf;
+  display: block;
 }
 
 .sixth #box_3 {
@@ -23,6 +25,7 @@
 	width: 200px;
 	height: 200px;
 	background: #b7d84b;
+  display: block;
 }
 
 .sixth #box_4 {
@@ -32,13 +35,15 @@
 	width: 200px;
 	height: 200px;
 	background: #ebde52;
+  display: block;
 }
 
-.sixth #box_3 .orange {
+.orange-box {
   position: absolute;
-  bottom: 10px;
-  right: 10px;
-  width: 50px;
-  height: 50px;
+  bottom: 39%;
+  left: 41%;
+  width: 40px;
+  height: 40px;
   background: #f95b34;
+  display: block;
 }
